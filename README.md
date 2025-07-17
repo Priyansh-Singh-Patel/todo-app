@@ -1,31 +1,54 @@
-# 📝 Simple ToDo App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ToDo App</title>
+</head>
+<body>
 
-This is a basic ToDo app built using **Kotlin** for Android. It lets users add tasks, mark them as done, and delete completed tasks. The tasks are saved locally using SharedPreferences.
+  <h1>📝 Simple ToDo App</h1>
+  <p><strong>Simple ToDo</strong> is a lightweight task management app built with Kotlin. It allows users to add, complete, and delete tasks easily. All data is saved locally using SharedPreferences.</p>
 
-## 💡 Features
+  <h2>✨ Features</h2>
+  <ul>
+    <li>➕ Add new tasks</li>
+    <li>✔️ Mark tasks as completed</li>
+    <li>🗑️ Delete completed tasks</li>
+    <li>💾 Local storage using SharedPreferences and Gson</li>
+  </ul>
 
-- Add new tasks
-- Mark tasks as completed
-- Delete completed tasks
-- Save tasks even after closing the app
+  <h2>🛠️ Tech Stack</h2>
+  <ul>
+    <li><strong>Language:</strong> Kotlin</li>
+    <li><strong>UI:</strong> XML Layouts, RecyclerView</li>
+    <li><strong>Storage:</strong> SharedPreferences + Gson</li>
+  </ul>
 
-## 🛠 Technologies Used
+  <h2>🚀 Getting Started</h2>
+  <h3>1. Prerequisites</h3>
+  <ul>
+    <li>Android Studio installed</li>
+    <li>Android device or emulator</li>
+  </ul>
 
-- Kotlin
-- SharedPreferences (for saving tasks)
-- RecyclerView (to show the task list)
-- Gson (to store data as JSON)
+  <h3>2. Installation</h3>
+  <ol>
+    <li>Clone the repository:</li>
+    <pre><code>git clone https://github.com/Priyansh-Singh-Patel/todo-app.git</code></pre>
+    <li>Open the project in Android Studio</li>
+    <li>Build and run the app on an emulator or physical device</li>
+  </ol>
 
-## 📱 How to Use
+  <h2>📸 Screenshots</h2>
+  <div>
+    <img src="![Splash_Screen](https://github.com/user-attachments/assets/e0138670-84e7-4150-a9f8-9bac9c681f72)" width="200">
+    <img src="![Main_Activity](https://github.com/user-attachments/assets/5c32bfc4-a551-441c-913a-53a8b1c139b6)" width="200">
+    <img src="![Main_Activity](https://github.com/user-attachments/assets/4029f53d-efcc-4f28-87d7-10ceeaa585e5)" width="200">
+  </div>
 
-1. Type your task in the input box and press **Add**.
-2. Tap on a task to mark it as done.
-3. Press **Delete** to remove all completed tasks.
+  <h2>👤 Author</h2>
+  <p>Made with ❤️ by <strong>Priyansh Singh Patel</strong></p>
 
-## ▶️ Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Priyansh-Singh-Patel/todo-app.git
-2. Open the project in Android Studio.
-3. Run the app on an emulator or Android device.
+</body>
+</html>
