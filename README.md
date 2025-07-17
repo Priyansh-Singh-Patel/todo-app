@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ToDo App</title>
 </head>
 <body>
 
@@ -42,13 +41,9 @@
 
   <h2>📸 Screenshots</h2>
   <div>
-    <img src="![Splash_Screen](https://github.com/user-attachments/assets/e0138670-84e7-4150-a9f8-9bac9c681f72)" width="200">
-    <img src="![Main_Activity](https://github.com/user-attachments/assets/5c32bfc4-a551-441c-913a-53a8b1c139b6)" width="200">
-    <img src="![Main_Activity](https://github.com/user-attachments/assets/4029f53d-efcc-4f28-87d7-10ceeaa585e5)" width="200">
+    <img src="https://github.com/user-attachments/assets/e0138670-84e7-4150-a9f8-9bac9c681f72" width="200">
+    <img src="https://github.com/user-attachments/assets/5c32bfc4-a551-441c-913a-53a8b1c139b6" width="200">
+    <img src="https://github.com/user-attachments/assets/4029f53d-efcc-4f28-87d7-10ceeaa585e5" width="200">
   </div>
-
-  <h2>👤 Author</h2>
-  <p>Made with ❤️ by <strong>Priyansh Singh Patel</strong></p>
-
 </body>
 </html>
