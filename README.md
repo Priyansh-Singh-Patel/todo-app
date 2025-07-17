@@ -27,3 +27,5 @@ This is a basic ToDo app built using **Kotlin** for Android. It lets users add t
 1. Clone the repo:
    ```bash
    git clone https://github.com/Priyansh-Singh-Patel/todo-app.git
+2. Open the project in Android Studio.
+3. Run the app on an emulator or Android device.
