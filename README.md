@@ -9,6 +9,11 @@
   <h1>📝 Simple ToDo App</h1>
   <p><strong>Simple ToDo</strong> is a lightweight task management app built with Kotlin. It allows users to add, complete, and delete tasks easily. All data is saved locally using SharedPreferences.</p>
 
+  <h1>📱 Run application</h1>
+  
+  [![Run on Appetize.io](https://img.shields.io/badge/Run%20on-Appetize.io-blue)](https://appetize.io/app/b_uclvhxze7of6rmozd22v5r5kuu)
+
+  
   <h2>✨ Features</h2>
   <ul>
     <li>➕ Add new tasks</li>
